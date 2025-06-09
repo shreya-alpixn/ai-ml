@@ -2,7 +2,7 @@
 
 This module provides the AI functionality for the Task Management System. It enhances traditional project tracking by offering intelligent suggestions, risk assessments, deadline predictions, and resource recommendations.
 
----
+
 
 ## 🎯 Purpose
 
@@ -13,7 +13,7 @@ To automate and optimize project and task management through:
 - KPI forecasting
 - Resource allocation suggestions
 
----
+
 
 ## 🧠 Features & Endpoints
 
@@ -27,7 +27,7 @@ To automate and optimize project and task management through:
 | Resource Recommendations | GET    | `/api/ai/resources`          | Recommend members/tools              |
 | KPI Forecasting          | GET    | `/api/ai/kpis`               | Predict project health KPIs          |
 
----
+
 
 ## 🗂️ Folder Structure
 
