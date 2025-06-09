@@ -17,6 +17,7 @@ To automate and optimize project and task management through:
 
 ## 🧠 Features & Endpoints
 
+
 | Feature                  | Method | Endpoint                     | Description                          |
 |--------------------------|--------|------------------------------|--------------------------------------|
 | AI Suggestions           | GET    | `/api/ai/suggestions`        | Get all AI-generated recommendations |
